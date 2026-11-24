@@ -30,8 +30,7 @@ This project compares three local models as automated judges against GPT-4 refer
   Example: an answer that clearly lacks empathy got 1/5 in the reference but 3/5 from Llama 2 and Llama 3.1,
   even though both models noticed the missing empathy in their reasoning.
 
-![Gemma 4 results](results/results_Gemma_4_12B_Criteria_Rubric.png)
-![Score distribution](results/global_positivity_bias_boxplot.png)
+
 
 ## How to run
 
